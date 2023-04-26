@@ -1,2 +1,2 @@
 # SQL PROJECT 1
- This Project Introduces the Concept of Joins,Subquery,CTE(s),Windows Function,Coalesce while solving Real life Problems.
+This introduces a prototype of our POWER BI dashboard using [drawio](https://app.diagrams.net/#Htmaks7%2FSQL-PROJECT-1%2Fmain%2Fdashboard%20sketch.drawio)
